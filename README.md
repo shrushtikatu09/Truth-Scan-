@@ -1,1 +1,2 @@
-# Truth-Scan-
+# Truth-Scan 
+This project, called Fake News Detection, is a machine learning system built with Python. It uses natural language processing (NLP) to classify news articles as real or fake. The current version can detect a small set of articles. I plan to expand this by integrating a user account system with a proper database, such as MongoDB, allowing users to register, log in, and securely track their activities. The project currently includes all code, data preprocessing steps, and instructions for running the model locally.
