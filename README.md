@@ -26,3 +26,6 @@ TruthScan is a Machine Learning-based web application that detects whether a new
 - TF-IDF Vectorization
 - Logistic Regression Classifier
 - Performance Evaluation using Accuracy, F1 Score & Confusion Matrix
+
+## For dataset 
+  https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
