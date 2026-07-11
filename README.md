@@ -2,6 +2,10 @@
 
 TruthScan is a Machine Learning-based web application that detects whether a news article is REAL or FAKE using Natural Language Processing (NLP). The project uses TF-IDF Vectorization and Logistic Regression for text classification and provides predictions through an intuitive Flask-based web interface.
 
+## 🌐 Live Demo
+
+https://truth-scan-7iq4.onrender.com
+
 ## ✨ Features
 - Detects REAL and FAKE news articles
 - Text preprocessing using NLP techniques
