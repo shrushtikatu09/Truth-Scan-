@@ -1,9 +1,9 @@
-# ⚡ TruthScan — Fake News Detection System
+#  TruthScan — Fake News Detection System
 ### Final Year Engineering Project | NLP + Machine Learning + Flask
 
 ---
 
-## 📁 Project Structure & How Files Are Linked
+##  Project Structure & How Files Are Linked
 
 ```
 fake-news-detection/
@@ -49,7 +49,7 @@ main.js  ──────────────────→  app.py  (/pr
 
 ---
 
-## 🚀 Setup & Run
+## Setup & Run
 
 ### 1. Install dependencies
 ```bash
@@ -100,7 +100,7 @@ http://localhost:5000
 
 ---
 
-## 📊 Model Performance (with Kaggle dataset)
+## Model Performance (with Kaggle dataset)
 | Model                        | Accuracy |
 |------------------------------|----------|
 | Logistic Regression          | ~94%     |
@@ -109,7 +109,7 @@ http://localhost:5000
 
 ---
 
-## 🌟 Features
+##  Features
 - Paste any news text → instant REAL/FAKE verdict
 - Confidence score with animated progress bar
 - Session history of all checks
@@ -118,6 +118,6 @@ http://localhost:5000
 
 ---
 
-## 📚 Dataset
+##  Dataset
 Download from Kaggle:
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
